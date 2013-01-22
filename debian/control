@@ -1,0 +1,12 @@
+Source: ros-groovy-robot-pose-publisher
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-tf,ros-groovy-geometry-msgs,ros-groovy-catkin,ros-groovy-roscpp
+Homepage: http://ros.org/wiki/robot_pose_publisher
+Standards-Version: 3.9.2
+
+Package: ros-groovy-robot-pose-publisher
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-tf,ros-groovy-geometry-msgs,ros-groovy-roscpp
+Description: A simple node to publish the robot's position relative to the map using TFs.
