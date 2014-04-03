@@ -1,0 +1,48 @@
+ros-hydro-robot-pose-publisher (0.2.3-0raring) raring; urgency=high
+
+  * cleanup for release
+  * travis fix
+  * travis test
+  * gitignore cleanup
+  * Dry branch cleanup
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 03 Apr 2014 04:00:00 -0000
+
+ros-hydro-robot-pose-publisher (0.2.2-0raring) raring; urgency=high
+
+  * Merge pull request #3 <https://github.com/WPI-RAIL/robot_pose_publisher/issues/3> from jihoonl/groovy-devel
+    searches private node handle to get parameter
+  * searches private node handle to get parameter
+  * Merge pull request #2 <https://github.com/WPI-RAIL/robot_pose_publisher/issues/2> from jihoonl/groovy-devel
+    parameter setting. pose -> posestamped
+  * is_stamped param added
+  * parameter setting. pose -> posestamped
+  * Contributors: Jihoon Lee, Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Tue, 09 Apr 2013 04:00:00 -0000
+
+ros-hydro-robot-pose-publisher (0.2.1-0raring) raring; urgency=high
+
+  * Merge pull request #1 <https://github.com/WPI-RAIL/robot_pose_publisher/issues/1> from rctoris/groovy-devel
+    error messages removed to cleanup output
+  * 0.2.1 released
+  * error messages removed to cleanup output
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 24 Jan 2013 05:00:00 -0000
+
+ros-hydro-robot-pose-publisher (0.2.0-0raring) raring; urgency=high
+
+  * install added
+  * gitignore cleaned
+  * catkinized package
+  * .gitignore updated with eclipse settings
+  * .gitignore updated with eclipse settings
+  * new release build
+  * initial import
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 10 Jan 2013 05:00:00 -0000
+
+
